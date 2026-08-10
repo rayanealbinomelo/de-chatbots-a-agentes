@@ -147,3 +147,62 @@ Glossário
 | **Benchmark**                                | Conjunto padronizado de tarefas ou testes utilizado para avaliar e comparar o desempenho de sistemas de IA.                                                                           |
 
 
+Cicatrizes e Aprendizados
+Durante a construção deste material, algumas respostas inicialmente produzidas pelo NotebookLM apresentaram interpretações mais fortes do que aquilo que as fontes permitiam afirmar. Essas situações foram utilizadas como parte do processo de aprendizagem e deram origem às auditorias registradas nos prompts.
+
+1. Chatbot → Assistente → Agente não é uma hierarquia formal
+A análise inicial apresentou chatbot, assistente e agente como etapas de uma evolução linear.
+A auditoria mostrou que as fontes não estabelecem essa hierarquia como uma classificação formal.
+Os termos podem representar diferentes capacidades e aplicações que se sobrepõem.
+
+**Aprendizado:** uma narrativa evolutiva pode ser útil para explicar um tema, mas não deve ser apresentada como fato quando as fontes não estabelecem essa classificação.
+
+2. ReAct não define sozinho o que é um agente
+O ReAct demonstrou uma forma eficiente de combinar raciocínio e ação, utilizando ferramentas e informações externas.
+Entretanto, as fontes não permitem concluir que o ReAct seja a única tecnologia possível para construir agentes ou que todo sistema agente precise utilizar esse framework.
+
+**Aprendizado:** um estudo de caso não deve ser transformado automaticamente em uma definição universal.
+
+3. Autonomia absoluta não é requisito comprovado
+
+A análise inicial associou agentes diretamente à autonomia completa.
+A auditoria mostrou que as fontes apresentam evidências de execução independente em determinados benchmarks, mas também discutem colaboração entre humanos e sistemas de IA.
+
+**Aprendizado:** é mais preciso falar em capacidades de execução e interação com ambientes do que afirmar que todo agente é completamente autônomo.
+
+4. Memória não é uma característica obrigatória de agentes
+A memória foi inicialmente considerada uma possível característica dos sistemas agentes.
+Porém, as fontes apresentam a memória como um dos problemas fundamentais ainda existentes nos modelos atuais.
+
+**Aprendizado:** uma limitação que os sistemas precisam superar não deve ser confundida com uma característica que eles necessariamente já possuem.
+
+5. Jagged Frontier não possui uma explicação causal única
+A *jagged frontier* demonstra que os modelos podem apresentar desempenho extraordinário em algumas tarefas e falhar em outras.
+A análise posterior mostrou que as fontes não estabelecem, por si só, que uma limitação específica — como *symbol grounding*, causalidade ou ausência de *embodiment* — seja diretamente responsável por uma falha específica.
+
+**Aprendizado:** observar dois fenômenos simultaneamente não é suficiente para estabelecer uma relação causal entre eles.
+
+6. Memorização foi classificada como inferência
+Uma interpretação inicial sugeriu que o alto desempenho em benchmarks poderia ser explicado por “memorização de massa”.
+A auditoria mostrou que essa hipótese é plausível, mas não está diretamente estabelecida pelas cinco fontes.
+
+**Aprendizado:** quando a fonte não afirma algo explicitamente, a informação deve ser apresentada como hipótese ou inferência, e não como fato.
+
+7. Projeções não são previsões garantidas
+
+As fontes apresentam projeções sobre mercado de trabalho, treinamento, adoção de IA e transformação das funções profissionais.
+Essas informações representam expectativas baseadas em pesquisas e modelos, não acontecimentos futuros garantidos.
+
+**Aprendizado:** sempre diferenciar:
+
+**observação → projeção → interpretação → especulação.**
+
+
+Regra de ouro
+
+A principal lição metodológica deste projeto foi:
+**Quanto mais forte for uma afirmação, mais importante é verificar se a fonte realmente sustenta aquela afirmação.**
+Uma resposta de IA pode parecer extremamente convincente e ainda assim extrapolar aquilo que as fontes permitem concluir.
+Por isso, o processo adotado neste projeto não terminou na primeira resposta. As informações foram questionadas, auditadas e reformuladas quando necessário.
+
+
