@@ -118,3 +118,32 @@ Por isso, uma análise responsável deve diferenciar:
 **Fato observado → Projeção → Inferência → Especulação**
 
 Essa distinção foi uma das principais conclusões obtidas durante a investigação no NotebookLM.
+
+
+
+Glossário
+
+| Termo                                        | Definição                                                                                                                                                                             |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Agente de IA (*AI Agent*)**                | Sistema capaz de combinar raciocínio e ações para executar tarefas em interação com ambientes ou fontes externas.                                                                     |
+| **Agentic / Agenticidade**                   | Conjunto de capacidades relacionadas à interação com ambientes, planejamento, uso de ferramentas e execução de ações para atingir um objetivo.                                        |
+| **AGI (*Artificial General Intelligence*)**  | Conceito de uma inteligência artificial com capacidades gerais comparáveis às humanas em diferentes tipos de tarefas. As fontes analisadas não estabelecem uma data para sua chegada. |
+| **API**                                      | Interface que permite que diferentes sistemas ou aplicações se comuniquem e troquem informações.                                                                                      |
+| **Embodiment**                               | Ideia de que aspectos da inteligência estão relacionados à interação e à experiência com o mundo físico.                                                                              |
+| **Foundation Model / Modelo de Fundação**    | Modelo de IA treinado em grande escala e capaz de ser adaptado para diferentes tarefas e aplicações.                                                                                  |
+| **Grounding / Symbol Grounding**             | Problema relacionado à conexão entre símbolos ou representações utilizadas por um sistema e seus significados no mundo real.                                                          |
+| **IA Generativa**                            | Sistemas de IA capazes de gerar novos conteúdos, como texto, imagens, código ou outros tipos de informação.                                                                           |
+| **IA Soberana**                              | Estratégia pela qual países buscam desenvolver e controlar sua própria infraestrutura, modelos e ecossistema de Inteligência Artificial.                                              |
+| **LLM (*Large Language Model*)**             | Grande modelo de linguagem treinado em grandes volumes de dados para compreender e gerar linguagem.                                                                                   |
+| **MLLM (*Multimodal Large Language Model*)** | Modelo capaz de trabalhar com diferentes modalidades de informação, como texto, imagens e outros tipos de dados.                                                                      |
+| **OSWorld**                                  | Benchmark utilizado para avaliar agentes de IA em tarefas que exigem interação com sistemas operacionais e ambientes computacionais.                                                  |
+| **PFM (*Pre-trained Foundation Model*)**     | Modelo de fundação pré-treinado em larga escala que pode ser utilizado em diferentes tarefas e aplicações.                                                                            |
+| **Reasoning**                                | Processo de raciocínio utilizado pelo modelo para analisar informações e chegar a uma resposta ou plano.                                                                              |
+| **ReAct (*Reasoning and Acting*)**           | Framework que intercala raciocínio e ações, permitindo que um modelo utilize informações obtidas do ambiente para orientar os próximos passos.                                        |
+| **Reskilling**                               | Processo de desenvolvimento de novas habilidades para adaptação a mudanças nas funções ou no mercado de trabalho.                                                                     |
+| **SWE-bench Verified**                       | Benchmark utilizado para avaliar a capacidade de sistemas de IA em tarefas de engenharia de software.                                                                                 |
+| **Transformer**                              | Arquitetura de redes neurais baseada em mecanismos de atenção, apresentada em 2017 e fundamental para a evolução dos modelos modernos de linguagem.                                   |
+| **Jagged Frontier**                          | Fenômeno em que os modelos apresentam desempenho excepcional em algumas tarefas e falhas inesperadas em outras, revelando uma evolução desigual das capacidades.                      |
+| **Benchmark**                                | Conjunto padronizado de tarefas ou testes utilizado para avaliar e comparar o desempenho de sistemas de IA.                                                                           |
+
+
