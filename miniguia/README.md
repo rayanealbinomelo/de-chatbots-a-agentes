@@ -206,3 +206,75 @@ Uma resposta de IA pode parecer extremamente convincente e ainda assim extrapola
 Por isso, o processo adotado neste projeto não terminou na primeira resposta. As informações foram questionadas, auditadas e reformuladas quando necessário.
 
 
+Prompts Reutilizáveis:
+Os prompts abaixo foram adaptados a partir da metodologia utilizada neste projeto. Eles podem ser reutilizados para estudar outros temas utilizando ferramentas de IA com suporte a fontes, como o NotebookLM.
+
+1. Mapeamento de um tema
+Com base exclusivamente nas fontes fornecidas, mapeie a evolução de [TEMA].
+Identifique:
+1. principais marcos;
+2. tecnologias ou conceitos determinantes;
+3. novas capacidades;
+4. limitações;
+5. mudanças de paradigma.
+Organize a resposta cronologicamente e indique quais informações são diretamente sustentadas pelas fontes e quais são interpretações.
+
+2. Comparação de conceitos
+Com base exclusivamente nas fontes fornecidas, compare [CONCEITO A], [CONCEITO B] e [CONCEITO C].
+Crie uma tabela considerando:
+- objetivo;
+- características;
+- nível de autonomia;
+- uso de ferramentas;
+- interação com ambientes;
+- planejamento;
+- execução de tarefas;
+- limitações.
+Não trate os conceitos como uma hierarquia ou evolução linear a menos que as fontes afirmem isso explicitamente.
+
+3. Identificação de características
+Com base exclusivamente nas fontes fornecidas, identifique o que caracteriza [CONCEITO].
+Para cada característica encontrada, classifique a evidência como:
+1. explicitamente sustentada;
+2. parcialmente sustentada;
+3. não estabelecida.
+Não utilize conhecimento externo e não transforme um exemplo específico em uma definição universal.
+
+4. Análise de limitações
+Com base exclusivamente nas fontes fornecidas, identifique as principais limitações de [TEMA].
+Para cada limitação:
+- explique o que a fonte afirma;
+- apresente o exemplo relacionado;
+- indique se existe uma relação causal comprovada;
+- diferencie evidência direta de inferência.
+Não atribua uma causa específica a uma falha sem evidência explícita.
+
+5. Auditoria de uma resposta da IA
+Audite a resposta anterior utilizando exclusivamente as fontes fornecidas.
+Para cada afirmação relevante, classifique-a como:
+- evidência direta;
+- inferência plausível;
+- afirmação não sustentada.
+
+Identifique exageros, generalizações, problemas cronológicos e relações causais que não estejam comprovadas pelas fontes.
+
+Ao final, apresente uma versão corrigida das principais conclusões.
+
+6. Análise de tendências futuras
+
+Com base exclusivamente nas fontes fornecidas, identifique as principais tendências relacionadas a [TEMA].
+Separe rigorosamente:
+1. fatos já observáveis;
+2. projeções apresentadas pelas fontes;
+3. interpretações;
+4. especulações que não podem ser sustentadas.
+Não transforme tendências atuais em previsões garantidas.
+
+Metodologia reutilizável
+
+A sequência utilizada neste projeto pode ser resumida em seis etapas:
+**1. Investigar → 2. Comparar → 3. Questionar → 4. Auditar → 5. Corrigir → 6. Consolidar**
+
+Essa abordagem permite utilizar ferramentas de IA não apenas para obter respostas, mas também para **questionar a qualidade dessas respostas e verificar seus limites**.
+
+
